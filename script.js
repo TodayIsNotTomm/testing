@@ -24,4 +24,4 @@
 });
 }
 
-sendComment()
+sendComment();
